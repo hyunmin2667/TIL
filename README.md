@@ -26,3 +26,5 @@
 8. [Gatsbyjs 추천 유튜브](https://www.youtube.com/watch?v=XE-6-ZVq1Og)
 
 9. [깃허브 Jekyll로 꾸미기](https://supermemi.tistory.com/145)
+
+10. 졸작해야됨
